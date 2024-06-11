@@ -1,0 +1,5 @@
+1. Setup Environment
+2. few exp in jupyter notebook
+3. moduler coding
+4. web api Streamlit
+5. Deploy
