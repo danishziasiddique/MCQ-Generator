@@ -19,7 +19,7 @@ load_dotenv()
 # Access the environment variables just like you would with os.environ
 # key = os.getenv("mykey")
 
-key = "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"
+key = "Your API Key"
 print("Value of MY_VARIABLE:", key)
 
 llm = ChatOpenAI(openai_api_key=key,model_name="gpt-3.5-turbo", temperature=0.3)
