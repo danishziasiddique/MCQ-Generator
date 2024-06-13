@@ -65,23 +65,6 @@ Quiz Craft is an intelligent MCQ (Multiple Choice Questions) generator that uses
 
     Click on the "Create MCQs" button to generate and evaluate the quiz. The results will be displayed in a table format along with a complexity review.
 
-## File Structure
-
-```plaintext
-quiz-craft/
-│
-├── .env.example          # Example environment variables file
-├── app.py                # Main application script
-├── requirements.txt      # List of dependencies
-├── src/
-│   ├── mcq_generator/
-│   │   ├── __init__.py
-│   │   ├── utils.py      # Utility functions for file reading and data processing
-│   │   ├── logger.py     # Logging configuration
-│   │   ├── mcqgenerator.py  # MCQ generation and evaluation chains
-│
-└── response.json         # Sample response JSON for the quiz generation prompt
-```
 
 ## Contributing
 
