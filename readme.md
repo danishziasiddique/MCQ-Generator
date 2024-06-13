@@ -70,9 +70,6 @@ Quiz Craft is an intelligent MCQ (Multiple Choice Questions) generator that uses
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new features you'd like to see.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to customize this README file further according to your specific needs or preferences.
 
